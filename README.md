@@ -1,2 +1,2 @@
-# cat_vs_dog_SVMclassifier
-Classification of Cat and Dog images using SVM.
+# cat_vs_dog_ensemble
+Classification of Cat and Dog images using Ensemble Methods.
