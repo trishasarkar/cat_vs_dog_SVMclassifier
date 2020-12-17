@@ -22,6 +22,10 @@ The dataset is split into training and testing data and fed to the 2 models crea
 
 * The output using ensemble methods is slightly better and crosses the 60% marking.
 
+## Contributors
+
+* [Trisha Sarkar](https://github.com/trishasarkar)
+
 ## Points to be Noted
 
 * The accuracy of the model is not very high due to the following reasons -
