@@ -2,6 +2,15 @@
 
 A machine learning model that can identify between cat and dog images is a classic example  of applications in the space of Machine Learning. The first thought of creating a classifier would be ConvNets, however this project is an attempt to use only ML Algorithms to solve the problem using a basic feature extraction technique.
 
+## Table of Contents
+
+- [Prerequisites](#prerequisites)
+  - [Procedure](#procedure)
+  - [Inference & Use Cases](#inference-&-use-cases)
+- [Contributors](#contributors)
+- [Points to be Noted](#points-to-be-noted)
+ 
+
 ## Prerequisites
 
 Dataset Used: Extracted 302 images (equal number of dog and cat images) from the dataset [Dogs vs Cats](https://www.kaggle.com/c/dogs-vs-cats/rules) 
